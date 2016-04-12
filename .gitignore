@@ -1,7 +1,12 @@
 */build/
+*CATALINA_HOME*
 /WebContent/WEB-INF/
 /WebContent/META-INF/
 /srcAD/
+/build
+/WebContent
+/lib/runtime
+/attachments
 /src-wad/lib/openbravo-wad.jar
 /src-trl/lib/openbravo-trl.jar
 /src-gen
