@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/../lib/runtime/commons-dbcp-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../lib/runtime/commons-pool-1.5.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../lib/runtime/fop.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../lib/runtime/renderFoRmi.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../lib/runtime/avalon-framework-4.1.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../lib/runtime/commons-fileupload-1.2.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../lib/runtime/xercesImpl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../lib/runtime/nekohtml.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../lib/runtime/commons-codec-1.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../lib/runtime/log4j-1.2.16.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../lib/runtime/commons-io-2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../lib/build/servlet-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../lib/runtime/ant-1.9.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../lib/runtime/ant-apache-log4j-1.9.2.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/build/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="commons-dbcp-1.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/runtime/commons-dbcp-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-pool-1.5.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/runtime/commons-pool-1.5.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fop.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/runtime/fop.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="renderFoRmi.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/runtime/renderFoRmi.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="avalon-framework-4.1.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/runtime/avalon-framework-4.1.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-fileupload-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/runtime/commons-fileupload-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xercesImpl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/runtime/xercesImpl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="nekohtml.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/runtime/nekohtml.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/runtime/commons-codec-1.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.16.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/runtime/log4j-1.2.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-2.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/runtime/commons-io-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlet-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/build/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ant-1.9.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/runtime/ant-1.9.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ant-apache-log4j-1.9.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/runtime/ant-apache-log4j-1.9.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

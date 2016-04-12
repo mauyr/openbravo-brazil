@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/openbravo-brazil.iml" filepath="$PROJECT_DIR$/openbravo-brazil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src-core/OpenbravoCore.iml" filepath="$PROJECT_DIR$/src-core/OpenbravoCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src-util/diagnostic/OpenbravoDiagnostics.iml" filepath="$PROJECT_DIR$/src-util/diagnostic/OpenbravoDiagnostics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src-test/OpenbravoTest.iml" filepath="$PROJECT_DIR$/src-test/OpenbravoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src-trl/OpenbravoTrl.iml" filepath="$PROJECT_DIR$/src-trl/OpenbravoTrl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src-wad/OpenbravoWAD.iml" filepath="$PROJECT_DIR$/src-wad/OpenbravoWAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openbravo.iml" filepath="$PROJECT_DIR$/openbravo.iml" />
     </modules>
   </component>
 </project>
