@@ -21,7 +21,11 @@
       <sourceFolder url="file://$MODULE_DIR$/modules/org.openbravo.userinterface.selector/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/org.openbravo.userinterface.smartclient/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/org.openbravo.utility.cleanup.log/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/javasqlc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/javasqlc/srcAD" isTestSource="false" />
     </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jdk1.8" level="project" />
   </component>
 </module>
