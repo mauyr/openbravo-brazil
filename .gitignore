@@ -1,0 +1,9 @@
+*/build/
+/WebContent/WEB-INF/
+/WebContent/META-INF/
+/srcAD/
+/src-wad/lib/openbravo-wad.jar
+/src-trl/lib/openbravo-trl.jar
+/src-gen
+/src-db/database/lib/dbmanager.jar
+/src-core/lib/openbravo-core.jar
