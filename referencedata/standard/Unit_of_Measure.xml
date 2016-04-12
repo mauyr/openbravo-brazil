@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ob:Openbravo xmlns:ob="http://www.openbravo.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UOM id="100" identifier="Unit">
+    <id>100</id>
+    <active>true</active>
+    <eDICode>EA</eDICode>
+    <symbol>Ud </symbol>
+    <name>Unit</name>
+    <description xsi:nil="true"/>
+    <standardPrecision>0</standardPrecision>
+    <costingPrecision>4</costingPrecision>
+    <default>true</default>
+    <breakdown>false</breakdown>
+    <uOMType xsi:nil="true"/>
+  </UOM>
+  <UOM id="101" identifier="Hour">
+    <id>101</id>
+    <active>true</active>
+    <eDICode>HR</eDICode>
+    <symbol>h  </symbol>
+    <name>Hour</name>
+    <description xsi:nil="true"/>
+    <standardPrecision>2</standardPrecision>
+    <costingPrecision>2</costingPrecision>
+    <default>false</default>
+    <breakdown>false</breakdown>
+    <uOMType>T</uOMType>
+  </UOM>
+  <UOM id="102" identifier="Day">
+    <id>102</id>
+    <active>true</active>
+    <eDICode>DA</eDICode>
+    <symbol>d  </symbol>
+    <name>Day</name>
+    <description xsi:nil="true"/>
+    <standardPrecision>2</standardPrecision>
+    <costingPrecision>2</costingPrecision>
+    <default>false</default>
+    <breakdown>false</breakdown>
+    <uOMType>T</uOMType>
+  </UOM>
+  <UOM id="103" identifier="Minutes">
+    <id>103</id>
+    <active>true</active>
+    <eDICode>MJ</eDICode>
+    <symbol>min</symbol>
+    <name>Minutes</name>
+    <description>(lowest unit for resorce assigments)</description>
+    <standardPrecision>0</standardPrecision>
+    <costingPrecision>0</costingPrecision>
+    <default>false</default>
+    <breakdown>false</breakdown>
+    <uOMType>T</uOMType>
+  </UOM>
+  <UOM id="104" identifier="Labour day">
+    <id>104</id>
+    <active>true</active>
+    <eDICode>WD</eDICode>
+    <symbol>D  </symbol>
+    <name>Labour day</name>
+    <description>8 hours</description>
+    <standardPrecision>2</standardPrecision>
+    <costingPrecision>2</costingPrecision>
+    <default>false</default>
+    <breakdown>false</breakdown>
+    <uOMType xsi:nil="true"/>
+  </UOM>
+  <UOM id="105" identifier="Week">
+    <id>105</id>
+    <active>true</active>
+    <eDICode>WK</eDICode>
+    <symbol>w  </symbol>
+    <name>Week</name>
+    <description xsi:nil="true"/>
+    <standardPrecision>2</standardPrecision>
+    <costingPrecision>2</costingPrecision>
+    <default>false</default>
+    <breakdown>false</breakdown>
+    <uOMType>T</uOMType>
+  </UOM>
+  <UOM id="106" identifier="Month">
+    <id>106</id>
+    <active>true</active>
+    <eDICode>MO</eDICode>
+    <symbol>m  </symbol>
+    <name>Month</name>
+    <description>30 days</description>
+    <standardPrecision>2</standardPrecision>
+    <costingPrecision>2</costingPrecision>
+    <default>false</default>
+    <breakdown>false</breakdown>
+    <uOMType>T</uOMType>
+  </UOM>
+  <UOM id="107" identifier="Labour month">
+    <id>107</id>
+    <active>true</active>
+    <eDICode>WM</eDICode>
+    <symbol>M  </symbol>
+    <name>Labour month</name>
+    <description>20 days</description>
+    <standardPrecision>2</standardPrecision>
+    <costingPrecision>2</costingPrecision>
+    <default>false</default>
+    <breakdown>false</breakdown>
+    <uOMType xsi:nil="true"/>
+  </UOM>
+  <UOM id="108" identifier="Year">
+    <id>108</id>
+    <active>true</active>
+    <eDICode>YR</eDICode>
+    <symbol>Y  </symbol>
+    <name>Year</name>
+    <description xsi:nil="true"/>
+    <standardPrecision>2</standardPrecision>
+    <costingPrecision>2</costingPrecision>
+    <default>false</default>
+    <breakdown>false</breakdown>
+    <uOMType>T</uOMType>
+  </UOM>
+  <UOM id="2EBC93C05D75431E9EEFB29CEC76F244" identifier="Ounce">
+    <id>2EBC93C05D75431E9EEFB29CEC76F244</id>
+    <active>true</active>
+    <eDICode>OZ</eDICode>
+    <symbol>oz </symbol>
+    <name>Ounce</name>
+    <description xsi:nil="true"/>
+    <standardPrecision>2</standardPrecision>
+    <costingPrecision>2</costingPrecision>
+    <default>false</default>
+    <breakdown>false</breakdown>
+    <uOMType>W</uOMType>
+  </UOM>
+  <UOM id="6FA87C4EE1FD4C86940A5F2E47C429DA" identifier="Pound">
+    <id>6FA87C4EE1FD4C86940A5F2E47C429DA</id>
+    <active>true</active>
+    <eDICode>LB</eDICode>
+    <symbol>Lb </symbol>
+    <name>Pound</name>
+    <description xsi:nil="true"/>
+    <standardPrecision>2</standardPrecision>
+    <costingPrecision>2</costingPrecision>
+    <default>false</default>
+    <breakdown>false</breakdown>
+    <uOMType>W</uOMType>
+  </UOM>
+  <UOM id="72BA247D31F745F3AF11F74A5E2CCBEF" identifier="Kilogram">
+    <id>72BA247D31F745F3AF11F74A5E2CCBEF</id>
+    <active>true</active>
+    <eDICode>KG</eDICode>
+    <symbol>kg </symbol>
+    <name>Kilogram</name>
+    <description xsi:nil="true"/>
+    <standardPrecision>2</standardPrecision>
+    <costingPrecision>2</costingPrecision>
+    <default>false</default>
+    <breakdown>false</breakdown>
+    <uOMType>W</uOMType>
+  </UOM>
+</ob:Openbravo>

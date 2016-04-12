@@ -1,0 +1,18 @@
+#!/bin/sh
+
+# Mercurial pretxncommit hook
+echo "Performing jslint check on modified js resources"
+for i in $(hg log -r $HG_NODE --template '{files}')
+do
+	if [[ $i == *vendor* ]]
+	then
+	  echo "Skipping " $i;
+	else
+	  if [ -f "$i" -a -n "$(echo $i | awk '/.js$/')" ]
+	  then
+	    ../org.openbravo.client.kernel/jslint/jslint-module $i || exit 1
+		fi
+  fi
+done
+
+exit 0
